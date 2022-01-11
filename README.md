@@ -12,10 +12,11 @@ This project records keys from the keyboard and stores it in a text file,
 
 And that text file will be sent to a specified mail using SMTP library.
 
+Firstly you need to switch ON the Less Security App in your mail account in order to send mail. Need to install pynput library
 
-
-Firstly you need to switch ON the Less Security App in your mail account in order to send mail.
-Need to install pynput library
-
-      i.e, pip install pynput
+  i.e, -- python -m install pynput #for Windows
+       
+       
+       -- pip install pynput #for Linux
+You need to create text file in order to store keys pressed in your directory.
 
